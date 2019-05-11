@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Alpha : MonoBehaviour {
 
-    public float alphaValue;
+    public float alphaValue = 1;
     private Color colorA;
     private Material materialA;
 
