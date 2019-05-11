@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Test : MonoBehaviour {
+public class Alpha : MonoBehaviour {
 
     public float alphaValue;
     private Color colorA;
