@@ -5,8 +5,8 @@ using UnityEngine;
 public class Test : MonoBehaviour {
 
     public float alphaValue;
-    public Color colorA;
-    public Material materialA;
+    private Color colorA;
+    private Material materialA;
 
 	// Use this for initialization
 	void Start () {
