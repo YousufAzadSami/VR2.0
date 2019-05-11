@@ -304,6 +304,64 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3d394437e0497b64c80efa937a986b43, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &1001368813
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.1243
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8.3101
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.67892
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 740d77c41b7bc1c48a3484ad83c712fe, type: 2}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 6.6737614
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.6737633
+      objectReference: {fileID: 0}
+    - target: {fileID: 400066, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6.6737633
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 571ec0651f8d520448e852cc05305286, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &2079996017
 GameObject:
   m_ObjectHideFlags: 0
