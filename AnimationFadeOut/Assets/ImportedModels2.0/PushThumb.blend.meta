@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 571ec0651f8d520448e852cc05305286
+guid: 7fa77f06ba1ba624da66f5c35af6cce6
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -31,12 +31,12 @@ ModelImporter:
     100050: palm_03_R_001
     100052: palm_04_R
     100054: palm_04_R_001
-    100056: thumb_01_R
-    100058: thumb_01_R_001
-    100060: thumb_02_R
-    100062: thumb_03_R
-    100064: thumb_03_R_end
-    100066: //RootNode
+    100056: //RootNode
+    100058: thumb_01_R
+    100060: thumb_01_R_001
+    100062: thumb_02_R
+    100064: thumb_03_R
+    100066: thumb_03_R_end
     400000: Armature
     400002: Cube_000
     400004: finger_index_01_R
@@ -65,16 +65,16 @@ ModelImporter:
     400050: palm_03_R_001
     400052: palm_04_R
     400054: palm_04_R_001
-    400056: thumb_01_R
-    400058: thumb_01_R_001
-    400060: thumb_02_R
-    400062: thumb_03_R
-    400064: thumb_03_R_end
-    400066: //RootNode
+    400056: //RootNode
+    400058: thumb_01_R
+    400060: thumb_01_R_001
+    400062: thumb_02_R
+    400064: thumb_03_R
+    400066: thumb_03_R_end
     2100000: Material_004
     4300000: Cube_000
     7400000: Default Take
-    7400002: ArmatureAction_002
+    7400002: ArmatureAction
     7400004: Armature_Armature_00_Armature_00
     9500000: //RootNode
     13700000: Cube_000
